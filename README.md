@@ -1,2 +1,2 @@
 # Tribute-page
- Tribute page David Cherkasskiy
+ David Cherkasky's memory page
